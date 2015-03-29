@@ -3,7 +3,7 @@ module.exports = function () {
 
     return {
         init: function () {
-            console.log('Hello Module1');
+            console.log('Hello module1 - init');
         }
     }
 }
